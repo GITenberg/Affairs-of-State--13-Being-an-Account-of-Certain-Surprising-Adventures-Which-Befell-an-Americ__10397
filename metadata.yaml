@@ -1,0 +1,27 @@
+_repo: Affairs-of-State--13-Being-an-Account-of-Certain-Surprising-Adventures-Which-Befell-an-Americ__10397
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Burton Egbert
+    alias: Stevenson, Burton E.
+    birthdate: 1872
+    deathdate: 1962
+    gutenberg_agent_id: '980'
+    url: http://www.gutenberg.org/2009/agents/980
+    wikipedia: http://en.wikipedia.org/wiki/Burton_E._Stevenson
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- Netherlands -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: "Affairs of State\r\nBeing an Account of Certain Surprising Adventures Which\
+  \ Befell an American Family in the Land of Windmills"
+url: http://www.gutenberg.org/ebooks/10397
